@@ -1,0 +1,57 @@
+{
+  "P001": {
+    "id": "P001",
+    "name": "Ananya Sharma",
+    "city": "Guwahati",
+    "age": 28,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 90.0,
+    "bmi": 33.06,
+    "verdict": "Obese"
+  },
+  "P002": {
+    "id": "P002",
+    "name": "Ravi Mehta",
+    "city": "Mumbai",
+    "age": 35,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 85.0,
+    "bmi": 27.76,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "id": "P003",
+    "name": "Sneha Iyer",
+    "city": "Chennai",
+    "age": 24,
+    "gender": "female",
+    "height": 1.60,
+    "weight": 52.0,
+    "bmi": 20.31,
+    "verdict": "Normal"
+  },
+  "P004": {
+    "id": "P004",
+    "name": "Arjun Verma",
+    "city": "Delhi",
+    "age": 40,
+    "gender": "male",
+    "height": 1.80,
+    "weight": 95.0,
+    "bmi": 29.32,
+    "verdict": "Overweight"
+  },
+  "P005": {
+    "id": "P005",
+    "name": "Priya Nair",
+    "city": "Kochi",
+    "age": 31,
+    "gender": "female",
+    "height": 1.68,
+    "weight": 58.0,
+    "bmi": 20.56,
+    "verdict": "Normal"
+  }
+}
